@@ -29,7 +29,7 @@ My journey began as a creative tech enthusiast, blending design and engineering,
 
 ## Active Projects
 
-- **[Custom Path planner for ROS2 based Simulation ROBOT](https://github.com/nirmalram07/ros2_diff_bot)**  
+- **[Custom Path planner for ROS2 based Simulation Robot](https://github.com/nirmalram07/ros2_diff_bot)**  
   Custom navigation path planner for urdf using ROS2 nav stack, integrating SLAM, path planning, and obstacle avoidance. (ps: work is still in progress)
 
 - **[TurtleBot Behavior Tree Implementation](https://github.com/nirmalram07/ros2_bt_demo)**  
