@@ -1,56 +1,74 @@
-# 👋 Hi, I'm Nirmal Ram!
-**Robotics Software Engineer**  
-**Bengaluru, India**  
-**Driven by innovation and continual learning in robotics and software engineering.**
+# Nirmal Ram  
+**Robotics Software Engineer | Creative Technologist**  
+📍 Coimbatore, India  
+*Turning coffee into code and concepts into deployable robotics solutions*
 
 ---
 
 ## About Me
 
-As a passionate **Robotics Software Engineer**, I specialize in designing and implementing solutions using **ROS (Robot Operating System)**. With a solid foundation in **Mechatronics Engineering** and hands-on experience in **robotics and automation**, I am committed to creating impactful robotic applications and continuously honing my skills.  
+ROS-fluent robotics engineer specializing in autonomous systems architecture  
+Mechatronics background meets production-grade software development  
+Creative problem-solver bridging technical implementation and user experience
 
-My journey began as a creative tech enthusiast, blending design and engineering, and has evolved into a focused career in robotics software development.  
+*From tech enthusiast dreaming in CAD models to robotics developer shipping nodes*
 
 ---
 
-## Skills & Expertise
+## Technical Arsenal
 
-### Technical Skills:
-- **Tools & Software**: Proficient in **ROS/ROS2**, **SolidWorks**, **Fusion360**, **Docker**.  
-- **Programming**: Strong in Python, C++, and Linux-based development.  
-- **Robot Simulation**: Experience with **Gazebo**, **RViz**, and **Coppeliasim**.  
-- **Mechatronics Integration**: Expertise in working with sensors, actuators, and hardware-software integration.
+### Core Stack
+- **Robotics Frameworks**: ROS2, Coppeliasim
+- **Languages**:  C++, Python
 
-### Creative Skills:
-- **Graphic Design**: Proficient in tools like Adobe Photoshop and Illustrator.  
-- **Video Editing**: Skilled in Adobe Premiere Pro and After Effects, with a creative approach to storytelling.  
+### Development Toolkit
+- **CAD/CAM**: SolidWorks(Certified), Fusion360
+- **Simulation**: , Gazebo, RViz
+- **Systems Design**: Navigation stacks, Behavior trees
+  
+### Creative Edge
+- Technical visualization using Adobe Creative Suite
+- Developer documentation design
+- Hardware-software interface prototyping
 
 ---
 
 ## Active Projects
 
-- **[TurtleBot Behavior Tree Implementation](https://github.com/nirmalram07/ros2_bt_demo)**  
-  Custom Behavior trees to simulate the action of a pickup and drop of materials in a warehouse.
-
-- **[2 - Lidar Data Fusion](https://github.com/nirmalram07/2d_lidar_fusion_demo.git)**  
-  Simulation of Lidar data fusion, custom URDF package with 2 lidars.
-
-- **[Custom Path planner for ROS2 based Simulation Robot](https://github.com/nirmalram07/ros2_diff_bot)**  
-  Custom navigation path planner for urdf using ROS2 nav stack, integrating SLAM, path planning, and obstacle avoidance. (ps: work is still in progress, will update by end of march)
+| Project | Status | Technical Highlights |
+|---------|--------|----------------------|
+| [TurtleBot Behavior Trees](https://github.com/nirmalram07/ros2_bt_demo) | Active | Warehouse automation logic using custom decision trees |
+| [2D Lidar Fusion](https://github.com/nirmalram07/2d_lidar_fusion_demo.git) | Testing | Multi-sensor spatial data integration framework |
+| [ROS2 Path Planner](https://github.com/nirmalram07/ros2_diff_bot) | WIP(Apr 2024 Target)  | Custom navigation stack with obstacle prediction |
 
 ---
 
-## Learning & Growth
+## Development Roadmap
 
-I’m constantly exploring new technologies in **robotics**, focusing on areas like:  
-- Advanced control systems  
-- Robotic perception and vision    
+### Current Priorities
+- Robotic perception systems optimization
+- Production-grade ROS package development
+- Advanced control systems implementation
+- Vision-based navigation systems
+
+---
+
+## Connect
+
+[Email](mailto:nirmalcgvfx@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nirmalrams)  
+
+"Interested in robotics research papers? Let's collaborate on publishing" 
+---
+
+## Technical Footprint
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalram07&show_icons=true&theme=algolia)
 
 ---
 
-##  Contact!
+**PS:** Starred repositories fuel feature development cycles  
+**Current BGM:** Warehouse ambient noise mixed with server fans  
 
-- **Email:** [nirmalram@gmail.com](mailto:nirmalcgvfx@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/nirmalram](https://www.linkedin.com/in/nirmalrams)    
 
----
+
