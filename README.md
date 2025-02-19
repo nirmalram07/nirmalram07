@@ -57,7 +57,7 @@ Creative problem-solver bridging technical implementation and user experience
 
 [Email](mailto:nirmalcgvfx@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nirmalrams)  
 
-"Interested in robotics research papers? Let's collaborate on publishing" 
+Interested in robotics research papers? Let's collaborate on publishing, Collaboration proposals welcome - Bengaluru coffee shops preferred meeting spots
 ---
 
 ## Technical Footprint
@@ -68,7 +68,3 @@ Creative problem-solver bridging technical implementation and user experience
 ---
 
 **PS:** Starred repositories fuel feature development cycles  
-**Current BGM:** Warehouse ambient noise mixed with server fans  
-
-
-
