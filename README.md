@@ -29,11 +29,14 @@ My journey began as a creative tech enthusiast, blending design and engineering,
 
 ## Active Projects
 
-- **[Custom Path planner for ROS2 based Simulation Robot](https://github.com/nirmalram07/ros2_diff_bot)**  
-  Custom navigation path planner for urdf using ROS2 nav stack, integrating SLAM, path planning, and obstacle avoidance. (ps: work is still in progress)
-
 - **[TurtleBot Behavior Tree Implementation](https://github.com/nirmalram07/ros2_bt_demo)**  
   Custom Behavior trees to simulate the action of a pickup and drop of materials in a warehouse.
+
+- **[2 - Lidar Data Fusion](https://github.com/nirmalram07/2d_lidar_fusion_demo.git)**  
+  Simulation of Lidar data fusion, custom URDF package with 2 lidars.
+
+- **[Custom Path planner for ROS2 based Simulation Robot](https://github.com/nirmalram07/ros2_diff_bot)**  
+  Custom navigation path planner for urdf using ROS2 nav stack, integrating SLAM, path planning, and obstacle avoidance. (ps: work is still in progress, will update by end of march)
 
 ---
 
@@ -45,7 +48,7 @@ I’m constantly exploring new technologies in **robotics**, focusing on areas l
 
 ---
 
-##  Let's Connect!
+##  Contact!
 
 - **Email:** [nirmalram@gmail.com](mailto:nirmalcgvfx@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/nirmalram](https://www.linkedin.com/in/nirmalrams)    
