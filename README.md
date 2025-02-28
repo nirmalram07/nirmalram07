@@ -1,5 +1,5 @@
 # Nirmal Ram  
-**Robotics Software Engineer | Creative Technologist**  
+**Robotics Software Engineer**  
 📍 Coimbatore, India  
 *Turning coffee into code and concepts into deployable robotics solutions*
 
@@ -7,9 +7,9 @@
 
 ## About Me
 
-ROS-fluent robotics engineer specializing in autonomous systems architecture  
-Mechatronics background meets production-grade software development  
-Creative problem-solver bridging technical implementation and user experience
+•ROS-fluent robotics engineer specializing in autonomous systems architecture  
+•Mechatronics background meets production-grade software development  
+•Creative problem-solver bridging technical implementation and user experience
 
 *From tech enthusiast dreaming in CAD models to robotics developer shipping nodes*
 
@@ -18,12 +18,12 @@ Creative problem-solver bridging technical implementation and user experience
 ## Technical Arsenal
 
 ### Core Stack
-- **Robotics Frameworks**: ROS2, Coppeliasim
+- **Robotics Frameworks**: ROS2
 - **Languages**:  C++, Python
 
 ### Development Toolkit
 - **CAD/CAM**: SolidWorks(Certified), Fusion360
-- **Simulation**: , Gazebo, RViz
+- **Simulation**: , Gazebo, Coppeliasim
 - **Systems Design**: Navigation stacks, Behavior trees
   
 ### Creative Edge
@@ -57,7 +57,7 @@ Creative problem-solver bridging technical implementation and user experience
 
 [Email](mailto:nirmalcgvfx@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nirmalrams)  
 
-Interested in robotics research papers? Let's collaborate on publishing, Collaboration proposals welcome - Bengaluru coffee shops preferred meeting spots
+Interested in robotics research papers? Let's collaborate on publishing. Collaboration proposals welcome - Bengaluru coffee shops preferred meeting spots
 
 ---
 
