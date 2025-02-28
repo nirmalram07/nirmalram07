@@ -63,8 +63,14 @@ Interested in robotics research papers? Let's collaborate on publishing. Collabo
 
 ## Technical Footprint
 
+Metrics:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirmalram07&show_icons=true&theme=algolia)
+
+Top Languages used:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalram07&layout=compact&theme=algolia)
+
 
 ---
 
